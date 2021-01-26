@@ -2,7 +2,7 @@
 ### Hi there, I'm Bence Z Désvári 👋
 
 - 🔭 I’m currently working on my graduation work, [Existing board game creating in Unity to Mobile]
-- 🌱 I’m currently a student, BS Applied Computer Science. Expected graduation 2021.MAY as an IT Developer (Applied IT BSC)
+- 🌱 I’m currently a student, BS Applied Computer Science. Expected graduation 2021
 - 👯 I’m looking to collaborate on any interesting project
 - 📫 How to reach me: 
     - Email: [bence.desvari@gmail.com](mailto:bence.desvari@gmail.com)
