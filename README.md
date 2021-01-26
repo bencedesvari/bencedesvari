@@ -100,8 +100,10 @@
     </td>
     </tr>
     </table>
-   ###### Hobbyist ( For Fun :) )
-    <table>
+  
+  ###### Hobbyist ( For Fun :) )
+  
+  <table>
   <tr>
     <td align="center"  width="96">
       <a href="#bencedesvari">
