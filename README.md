@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
     - Email: [bence.desvari@gmail.com](mailto:bence.desvari@gmail.com)
     - GitHub: [Github@bencedesvari](https://github.com/bencedesvari)
-    - LinkedIn: [Linkedin@bencedesvari](https://www.linkedin.com/in/bence-desvari)
+    - LinkedIn: [Linkedin@bence-desvari](https://www.linkedin.com/in/bence-desvari)
 
 ##### Stack
 
