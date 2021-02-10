@@ -10,7 +10,7 @@
     - LinkedIn: [Linkedin@bence-desvari](https://www.linkedin.com/in/bence-desvari)
 
 #### Demos:
-Simple react todo app: https://todo-react-bencedesvari.vercel.app/
+Simple react todo app: https://todo-react-bencedesvari.vercel.app/ <br>
 Fun made personal project, html,cssanim: https://bencedesvari.github.io/postcard3d/index.html 
 
 
