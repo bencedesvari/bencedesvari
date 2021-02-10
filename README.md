@@ -11,6 +11,7 @@
 
 #### Demos:
 Simple react todo app: https://todo-react-bencedesvari.vercel.app/
+Fun made personal project, html,cssanim: https://bencedesvari.github.io/postcard3d/index.html 
 
 
 ##### Stack
