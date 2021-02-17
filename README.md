@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my graduation work, [Existing board game creating in Unity to Mobile]
 - 🌱 I’m currently a student, BS Applied Computer Science. Expected graduation 2021
-- 👯 I’m looking to collaborate on any interesting project
+
 - 📫 How to reach me: 
     - Email: [bence.desvari@gmail.com](mailto:bence.desvari@gmail.com)
     - GitHub: [Github@bencedesvari](https://github.com/bencedesvari)
@@ -16,7 +16,7 @@ Fun made personal project, html,cssanim: https://bencedesvari.github.io/postcard
 
 ##### Stack
 
-###### Front-End ( Medior )
+###### Front-End ( Junior )
 <table>
   <tr>
     <td align="center" width="96">
