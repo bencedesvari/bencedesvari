@@ -142,7 +142,9 @@ Fun made personal project, html,cssanim: https://bencedesvari.github.io/postcard
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         16 hrs 12 mins  ███████████████████▓░░░░░   78.79 % 
+CSS          3 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
+JavaScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 <!--END_SECTION:waka-->
 
