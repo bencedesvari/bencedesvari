@@ -142,10 +142,8 @@ Fun made personal project, html,cssanim: https://bencedesvari.github.io/postcard
 
 <!--START_SECTION:waka-->
 ```text
-HTML    15 mins         ██████████░░░░░░░░░░░░░░░   40.03 % 
-CSS     10 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Other   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
-C#      5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+C#      17 mins         ██████████████████░░░░░░░   71.66 % 
+Other   6 mins          ███████░░░░░░░░░░░░░░░░░░   28.34 % 
 ```
 <!--END_SECTION:waka-->
 
