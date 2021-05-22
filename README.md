@@ -142,7 +142,7 @@ Fun made personal project, html,cssanim: https://bencedesvari.github.io/postcard
 
 <!--START_SECTION:waka-->
 ```text
-C#   33 mins         █████████████████████████   100.00 % 
+C#   7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
